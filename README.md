@@ -28,19 +28,19 @@ TensorFlow/Keras: For building and training the LSTM model
 🚀 How to Run the Project
 Clone the repository:
 
-
-git clone https://github.com/yourusername/stock-market-analysis-prediction.git
+ ```bash
+git clone https://github.com/yourusername/stock-market-analysis-prediction.git 
 Navigate to the project directory:
 
-
+ ```bash
 cd stock-market-analysis-prediction
 Install the required dependencies:
 
-
+ ```bash
 pip install -r requirements.txt
 Run the Jupyter Notebook:
 
-
+ ```bash
 jupyter notebook stock-market-analysis-prediction-using-lstm.ipynb
 Explore and Execute:
 
